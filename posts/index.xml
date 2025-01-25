@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2025 16:16:38 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <title>Der ewige Alltag</title>
+      <link>/posts/der-ewige-alltag/</link>
       <pubDate>Sat, 25 Jan 2025 16:16:38 +0100</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h3 id=&#34;this-is-my-first-post-er-my-gah&#34;&gt;This is my first post. Er my gah!&lt;/h3&gt;&#xA;&lt;p&gt;SOme suff here&lt;/p&gt;</description>
+      <guid>/posts/der-ewige-alltag/</guid>
+      <description>&lt;p&gt;Ein junger Student drückt seine Zigarette aus und steigt in die Straßen-&#xA;bahn ein.&lt;/p&gt;&#xA;&lt;p&gt;Es war ein langer Tag, und genauso schnell wie es dunkel&#xA;wurde, so würde auch dieser Tag bald sein Ende nehmen. Er starrt in die&#xA;volle Tram hinein. Ausdruckslose, müde Gesichter betrachten ihn in der&#xA;geschmackslosen, faden Straßenbahn, umgeben von einer erschöpften&#xA;Menge.&lt;/p&gt;&#xA;&lt;p&gt;Nur wenige Augenblicke sind vergangen, und für ihn fühlt es&#xA;sich alles an, als verliefe es in Zeitlupe. Die sich langsam schließenden&#xA;Türen und die einsteigenden Menschen, die sich müde einen Platz&#xA;suchen, scheinen sich langsamer zu bewegen als gewohnt.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

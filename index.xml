@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 25 Jan 2025 16:16:38 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Der ewige Alltag</title>
-      <link>//localhost:1313/posts/der-ewige-alltag/</link>
+      <link>/posts/der-ewige-alltag/</link>
       <pubDate>Sat, 25 Jan 2025 16:16:38 +0100</pubDate>
-      <guid>//localhost:1313/posts/der-ewige-alltag/</guid>
-      <description>&lt;p&gt;Ein junger Student drückt seine Zigarette aus und steigt in die Straßenbahn ein. Es war ein langer Tag, und genauso schnell wie es dunkel wurde, so wird auch dieser Tag bald sein Ende nehmen. Er starrt in die volle Tram hinein. Müde Gesichter betrachten ihn mimiklos. Zum Teil schenken sie ihm auch keine Beachtung und schauen, genauso wie seine Augen, in die geschmacklose Straßenbahn hinein, in die müde Menge. Nur wenige Augenblicke sind vergangen, und es fühlt sich alles wie in Zeitlupe für ihn an. Die sich langsam schließenden Türen und die einsteigenden Menschen, die sich müde einen Platz suchen, scheinen sich langsamer zu bewegen als gewohnt. Er legt seinen Kopf schief, doch die Straßenbahn folgt dem Blick. Alles steht Kopf, und die Schwerkraft scheint ausgefallen zu sein. Ein Unfall mit einer entgleisenden Straßenbahn, die sich nun auf dem Kopf befindet und sich langsam immer weiterdreht? Das ist unvorstellbar unlogisch. Doch als es nicht seltsam genug werden konnte, fällt dem jungen Studenten etwas auf. Entweder stehen alle Menschen mitsamt der Tram auf dem Kopf oder er selbst! Wirklich seltsam. Nun schließt sich allerdings langsam der Zeitlupensalto, und die Menschen bewegen sich von der Schräge wieder in die Gerade, als ob alles normal wäre! Und… piep piep piep. Er war auf seinem Platz eingeschlafen und hat doch tatsächlich seine Haltestelle verpasst. „Eine interessante Abwechslung zum Alltag“, denkt der Student sich innerlich und muss lachen. Ein paar müde Gesichter betrachten ihn seltsam, bis er aussteigt und die Tram weiterfährt. Auf dem nun etwas längeren&lt;/p&gt;</description>
+      <guid>/posts/der-ewige-alltag/</guid>
+      <description>&lt;p&gt;Ein junger Student drückt seine Zigarette aus und steigt in die Straßen-&#xA;bahn ein.&lt;/p&gt;&#xA;&lt;p&gt;Es war ein langer Tag, und genauso schnell wie es dunkel&#xA;wurde, so würde auch dieser Tag bald sein Ende nehmen. Er starrt in die&#xA;volle Tram hinein. Ausdruckslose, müde Gesichter betrachten ihn in der&#xA;geschmackslosen, faden Straßenbahn, umgeben von einer erschöpften&#xA;Menge.&lt;/p&gt;&#xA;&lt;p&gt;Nur wenige Augenblicke sind vergangen, und für ihn fühlt es&#xA;sich alles an, als verliefe es in Zeitlupe. Die sich langsam schließenden&#xA;Türen und die einsteigenden Menschen, die sich müde einen Platz&#xA;suchen, scheinen sich langsamer zu bewegen als gewohnt.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
