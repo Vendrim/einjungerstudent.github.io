@@ -1,7 +1,7 @@
 ---
 title: "Freundschaft"
 date: 2025-01-25T16:44:07+01:00
-image: /posts/freundschaft/image.jpg
+image: /public/posts/freundschaft/image.jpg
 ---
 
 Ein junger Student sitzt auf einer Bank im Park und grübelt vor sich hin.

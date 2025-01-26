@@ -1,7 +1,7 @@
 ---
 title: "Innere Unruhe"
 date: 2025-01-25T16:43:41+01:00
-image: /posts/innere-unruhe/image.jpg
+image: /public/posts/innere-unruhe/image.jpg
 ---
 
 Der junge Student setzt sich in das ihm bereits bekannte Café und bestellt
