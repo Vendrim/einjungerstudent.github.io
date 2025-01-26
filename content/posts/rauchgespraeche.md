@@ -1,6 +1,7 @@
 ---
 title: "Rauchgespraeche"
 date: 2025-01-25T16:44:20+01:00
+image: /posts/rauchgespraeche/image.jpeg
 ---
 
 Ein junger Student sitzt auf einer Bank und möchte sich gerade eine

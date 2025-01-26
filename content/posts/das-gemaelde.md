@@ -1,6 +1,7 @@
 ---
 title: "Das Gemälde"
 date: 2025-01-25T16:42:37+01:00
+image: /posts/das-gemaelde/image.png
 ---
 
 Ein junger Student läuft durch die Straßen seiner Stadt. Nach nur kurzer

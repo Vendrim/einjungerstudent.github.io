@@ -1,7 +1,7 @@
 ---
 title: "Ironie Der Zeit"
 date: 2025-01-25T16:43:01+01:00
-draft: true
+image: /posts/ironie-der-zeit/image.jpg
 ---
 
 Ein junger Student sitzt mit seiner Zigarette am Bahnsteig. Beim
