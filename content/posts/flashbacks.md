@@ -1,7 +1,7 @@
 ---
 title: "Flashbacks"
 date: 2025-01-25T16:43:31+01:00
-image: /public/posts/flashbacks/image.jpeg
+image: /einjungerstudent.github.io/public/posts/flashbacks/image.jpeg
 ---
 
 Ein junger Student sitzt allein an seinem Schreibtisch. Er fährt seinen

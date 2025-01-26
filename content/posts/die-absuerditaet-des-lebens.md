@@ -1,7 +1,7 @@
 ---
 title: "Die Absurdität Des Lebens"
 date: 2025-01-25T16:44:47+01:00
-image: /public/posts/die-absuerditaet-des-lebens/image.jpeg
+image: /einjungerstudent.github.io/public/posts/die-absuerditaet-des-lebens/image.jpeg
 ---
 
 Ein junger Student begibt sich zur Straßenbahnstation. Er möchte aus

@@ -1,7 +1,7 @@
 ---
 title: "Sisyphos"
 date: 2025-01-25T16:43:57+01:00
-image: /public/posts/sisyphos/image.jpeg
+image: /einjungerstudent.github.io/public/posts/sisyphos/image.jpeg
 ---
 
 Ein junger Student steht vor einem Hügel. Neben ihm befindet sich ein

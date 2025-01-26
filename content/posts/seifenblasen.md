@@ -1,7 +1,7 @@
 ---
 title: "Seifenblasen"
 date: 2025-01-25T16:44:32+01:00
-image: /public/posts/seifenblasen/image.jpeg
+image: /einjungerstudent.github.io/public/posts/seifenblasen/image.jpeg
 ---
 
 Ein junger Student schlendert durch die Stadt. Neben ihm sieht er ein

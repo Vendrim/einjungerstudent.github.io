@@ -1,7 +1,7 @@
 ---
 title: "Der Schlechte Tag"
 date: 2025-01-25T16:42:50+01:00
-image: /public/posts/der-schlechte-tag/image.jpg
+image: /einjungerstudent.github.io/public/posts/der-schlechte-tag/image.jpg
 ---
 
 Ein junger Student sitzt an der Haltestelle der Bahn. Nach einer Weile
