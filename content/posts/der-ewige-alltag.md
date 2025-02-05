@@ -1,7 +1,7 @@
 ---
 title: "Der ewige Alltag"
 date: 2025-01-25T16:16:38+01:00
-image: /einjungerstudent.github.io/public/posts/der-ewige-alltag/image.jpeg
+image: /posts/der-ewige-alltag/image.jpeg
 ---
 
 Ein junger Student drückt seine Zigarette aus und steigt in die Straßen-

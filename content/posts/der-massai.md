@@ -1,7 +1,7 @@
 ---
 title: "Der Massai"
 date: 2025-01-25T16:43:10+01:00
-image: /einjungerstudent.github.io/public/posts/der-massai/image.jpeg
+image: /posts/der-massai/image.jpeg
 ---
 
 Ein junger Student sitzt auf einer Wiese und dreht sich eine Zigarette. Er

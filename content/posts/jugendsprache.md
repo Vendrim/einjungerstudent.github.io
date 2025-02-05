@@ -1,7 +1,7 @@
 ---
 title: "Jugendsprache"
 date: 2025-01-25T16:43:22+01:00
-image: /einjungerstudent.github.io/public/posts/jugendsprache/image.jpeg
+image: /posts/jugendsprache/image.jpeg
 ---
 
 Ein junger Student sitzt auf einer Parkbank. In der Nähe sitzen ein paar
